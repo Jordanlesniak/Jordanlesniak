@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*.$py.class
+.ipynb_checkpoints
+Joyce-table4.tex
+MR_Joyce.png
