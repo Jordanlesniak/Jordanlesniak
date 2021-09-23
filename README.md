@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jordanlesniak
+- 👋 Hi, I’m Jordan Lesniak
 - 👀 I’m interested in Data Science, Astrophysics, data management, astronomy, nuclear science
 - 🌱 I’m currently majoring in both Data Science and Astrophysics
 - 📫 How to reach me, my email is lesniak6@msu.edu. the link to my LinkedIn account is www.Linkedin.com/in/jordan-lesniak
