@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Jordan Lesniak
 - 👀 I’m interested in Data Science, Astrophysics, data management, astronomy, nuclear science
-- 🌱 I’m currently majoring in both Data Science and Astrophysics
-- 📫 How to reach me, my email is lesniak6@msu.edu. the link to my LinkedIn account is www.Linkedin.com/in/jordan-lesniak
+- 🌱 I’m currently completing bachelors degrees in both Data Science and Astrophysics
+- 📫 How to reach me, my email is lesniak6@msu.edu. the link to my LinkedIn account is www.Linkedin.com/in/jordan-lesniak.
 
-- This repository is set up to show off some of my personal coding projects over the course of my career at Michigan State University, some are class projects,
-others are personal projects. I also have an extensive amount of original code that I have been a crucial part of writing while performing my research at the 
+- This repository is set up to show off some of my personal coding projects over the course of my career at Michigan State University, some are personal projects,
+others are class projects. I also have an extensive amount of original code that I have been a crucial part of writing while performing my research at the 
 Facility for Rare Isotope Beams (FRIB) on campus, but for obvious reasons, at the moment that code cannot be shared to the public.
 
 
