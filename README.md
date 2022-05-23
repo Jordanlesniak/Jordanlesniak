@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jordan Lesniak
 - 👀 I’m interested in Data Science, Astrophysics, data management, astronomy, nuclear science
-- 🌱 I’m chave recently completed bachelors degrees in both Data Science and Astrophysics
+- 🌱 I’m have recently completed bachelors degrees in both Data Science and Astrophysics
 - 📫 How to reach me, my email is lesniak6@msu.edu. the link to my LinkedIn account is www.Linkedin.com/in/jordan-lesniak.
 
 - This repository is set up to show off some of my personal coding projects over the course of my career at Michigan State University, some are personal projects,
